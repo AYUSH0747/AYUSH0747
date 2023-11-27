@@ -124,4 +124,11 @@
   </a>
 </div>
 
+---
+
+### 🔥 My Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AYUSH0747&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSH0747&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
